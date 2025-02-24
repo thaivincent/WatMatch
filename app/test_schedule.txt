@@ -1,0 +1,115 @@
+
+ 
+GO!
+Go To
+Vincent Thai
+My Academics
+Course Selection (Undergrad only)
+Search for Classes
+Enroll
+ 	My Class Schedule	 	 	|	 	 	Shopping Cart	 	 	|	 	 	Add	 	 	|	 	 	Drop	 	 	|	 	 	Swap	 	 	|	 	 	Edit	 	 	|	 	 	Term Information	 	 	|	 	 	Exam Information	 
+My Class Schedule
+Select Display Option
+List View
+Weekly Calendar View
+Winter 2025 | Undergraduate | University of Waterloo
+Group Box
+Class Schedule Filter Options Collapsible section Class Schedule Filter Options 
+Show Enrolled Classes
+Show Dropped Classes
+Show Waitlisted Classes
+AMATH 250 - Intro Differential Equations
+Status	Units	Grading	Deadlines
+Enrolled
+0.50
+Numeric Grading Basis
+Academic Calendar Deadlines
+Class Nbr	Section	Component	Days & Times	Room	Instructor	Start/End Date
+5967
+001
+LEC
+MWF 8:30AM - 9:20AM
+MC 4020
+Brayden Hull
+01/06/2025 - 04/04/2025
+5968
+101
+TUT
+F 12:30PM - 1:20PM
+MC 4020
+Brayden Hull
+01/06/2025 - 04/04/2025
+6200
+201
+TST
+T 5:00PM - 6:50PM
+TBA
+To be Announced
+02/04/2025 - 02/04/2025
+CS 230 - Intro Computers & Comp Sys
+Status	Units	Grading	Deadlines
+Enrolled
+0.50
+Numeric Grading Basis
+Academic Calendar Deadlines
+Class Nbr	Section	Component	Days & Times	Room	Instructor	Start/End Date
+5861
+001
+LEC
+TTh 8:30AM - 9:50AM
+MC 1085
+Patrick Roh,
+Sandy Graham
+01/06/2025 - 04/04/2025
+5863
+102
+TUT
+M 11:30AM - 12:20PM
+MC 2017
+To be Announced
+01/06/2025 - 04/04/2025
+CS 246 - Obj-Oriented Soft Dev
+Status	Units	Grading	Deadlines
+Enrolled
+0.50
+Numeric Grading Basis
+Academic Calendar Deadlines
+Class Nbr	Section	Component	Days & Times	Room	Instructor	Start/End Date
+5952
+201
+TST
+T 4:30PM - 6:20PM
+TBA
+Caroline Kierstead,
+Patrick Roh
+03/04/2025 - 03/04/2025
+5867
+001
+LEC
+TTh 10:00AM - 11:20AM
+MC 1056
+Caroline Kierstead
+01/06/2025 - 04/04/2025
+6135
+102
+TUT
+W 11:30AM - 12:20PM
+MC 3003
+To be Announced
+01/06/2025 - 04/04/2025
+CS 371 - Intro Computational Math
+Status	Units	Grading	Deadlines
+Enrolled
+0.50
+Numeric Grading Basis
+Academic Calendar Deadlines
+Class Nbr	Section	Component	Days & Times	Room	Instructor	Start/End Date
+8853
+002
+LEC
+TTh 11:30AM - 12:50PM
+MC 4045
+Maryam Ghasemi
+01/06/2025 - 04/04/2025
+Printer Friendly Page
+Go to top iconGo to top
