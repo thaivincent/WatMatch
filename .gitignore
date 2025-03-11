@@ -1,7 +1,6 @@
 __pycache__/
 venv/
 *.db
-*.pyc
 *.env
 flaskenv
 config.py
